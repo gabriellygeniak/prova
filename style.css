@@ -1,0 +1,54 @@
+body {
+	
+}
+
+#imagem.livro.jpeg {
+	width: 100%;
+}
+
+.imagemdolivro {
+	width: 60%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+h1 { 
+ 	text-align: center
+ }
+
+p { 
+	text-align: center;
+}
+
+#missao {
+	font-size:20px
+}
+strong {
+	color: red;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.Novidades{
+	padding: 20px;
+}
+
+h2{
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagemnovidades {
+	width: 50%;
+}
